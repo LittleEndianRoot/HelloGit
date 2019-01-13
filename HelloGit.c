@@ -4,6 +4,6 @@ int main()
 {
 	printf("Hello GitHub!\n");
 	printf("Testing some of the cool git features\n");
-	printf("Making some chanages on the Master branch.");
+	printf("Making some chanages on the Master branch.\n");
 	return 0;
 }
