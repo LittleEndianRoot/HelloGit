@@ -1,9 +1,17 @@
-This is my first push to my GitHub profile.
+This is my first repository that I tested on github. 
 
-I've switched to an experimental branch, which I will push to github.
-This is for myself so I can learn how branches appear on my github profile.
+Using the bash commandline I was able to learn the fundimentals of git to a certain extent:
 
-Here is an example of more branching. 
+- Initilizing a project.
+- Adding files to the staging area.
+- Commiting to the local repository.
+- Pushing to remote repositories.
+- Creating local branches.
+- Pushing the branches to GitHub
+- Logging informaiton.
+- Merging branches together, solving merge conflicts.
 
-For this test I will test some pull requests and merge this branch with the master, since the master is a few commits behind.
-This will be a good test to get it up to speed and solve merge conflicts.
+This is general overview of what I learned, I will continue to work on the fundimentals of using git and GitHub. 
+
+I will be using git for a few projects that I have in mind in the future.
+
